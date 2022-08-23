@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 190ff794f73c9354b950ec4b846ec3c0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - EB Garamond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d27b8818e3309f24eb4cf3cfdd8f0bb8, type: 3}
+  - {fileID: 12800000, guid: 485993f4a73a09047bdd293a8cf5551e, type: 3}
+  - {fileID: 12800000, guid: 11feeb314fc06d246bab8512165baa7f, type: 3}
+  - {fileID: 12800000, guid: 005371da853f67e4594dd1bfc59e6cf4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
